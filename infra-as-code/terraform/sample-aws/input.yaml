@@ -11,7 +11,7 @@ public_ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDFS3DTvF0NN+z6CY6hyFHN4cI
 
 # Name you want to give to your Database
 # DB name must contain only alphanumeric characters
-db_name: "testdemodb-ss"
+db_name: "testdemodbss"
 
 # Replace with DB username you want
 # DB user name must contain only alphanumeric characters
